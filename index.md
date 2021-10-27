@@ -1,8 +1,8 @@
 ## Static
 
-- [Marmoset Viewer Full Screen](./static/marmoset/nicole.html)
-- Example 2
-- Example 3
+- [Marmoset Viewer](./static/marmoset)
+- [<model-viewer>](./static/model-viewer)
+- [In-page Example]
 
 ## Dynamic
 
